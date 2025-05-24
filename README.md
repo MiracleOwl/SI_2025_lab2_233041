@@ -3,8 +3,8 @@ Valentino
 Cvetanovski
 233041
 3. 
-  Ciklomatska kompleksnost e 8, so formula M = broj na uslovi + 1
-  ima 7 if+logicki granki + 1 = 8
+  Ciklomatska kompleksnost e 11, so formula M = broj na uslovi + 1
+  ima 10 if+logicki granki + 1 = 11
 4.
   Invalid character in card number!
   allItems == null
